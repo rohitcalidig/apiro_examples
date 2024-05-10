@@ -5,14 +5,14 @@
         <envProperty>
             <!--<env>APIRO_PRE_DEMO</env> should match -> docker-compose.yaml APIRO_INSTANCEID: APIRO_PRE_DEMO-->
             <name>APIRO_USERNAME</name>
-            <value>apiropublic</value>
+            <value>rohitcalidig</value>
             <encrypted>false</encrypted>
         </envProperty>
 
         <envProperty>
             <!--<env>APIRO_PRE_DEMO</env> should match -> docker-compose.yaml APIRO_INSTANCEID: APIRO_PRE_DEMO-->
             <name>APIRO_GITHUB_PW</name>
-            <value>SFA3W75PcDXPDI/YYtJfDggwazLiwe33ePKqDskR1K8jAfVMCYnVoE/QqjTa5UkusRb+de9GzwmeQPOHVqiyYZOifc52Tn/7jtUU96W6toAdPnHCk+KanssMV0SdhxIp</value>
+            <value>FJrrsOqI51/vP2oQvWQqiWjOPI0voC18Ok5LHsMDWsJ2arxOmQOLJYqPcLUNaX+L6VVMMmzo6ungJ/HtdoA+lHWBH/emHdwXOzm4nKUjPO2YTmKnbhQ2qzynBgnk0bax</value>
             <encrypted>true</encrypted>
         </envProperty>
     </envProperties>
